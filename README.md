@@ -1,2 +1,5 @@
-# erroroye
-this is hello world program written in c language 
+#include<stdio.in>
+void main()
+{
+print("hello world....");
+}
